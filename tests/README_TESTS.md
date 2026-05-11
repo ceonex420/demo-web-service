@@ -19,7 +19,7 @@ Test suite for the Odiseo Demo Agent service.
 ### Run All Tests
 
 ```bash
-cd /home/javort/demo-service
+cd /Users/og/Documents/Claude/Projects/Odiseo live/demo-service
 pytest tests/ -v
 ```
 
