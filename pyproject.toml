@@ -37,9 +37,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/lab01-mcp/MCP-Server"
-Repository = "https://github.com/lab01-mcp/MCP-Server"
-Issues = "https://github.com/lab01-mcp/MCP-Server/issues"
+Homepage = "https://github.com/ceonex420/demo-web-service"
+Repository = "https://github.com/ceonex420/demo-web-service"
+Issues = "https://github.com/ceonex420/demo-web-service/issues"
 
 [tool.black]
 line-length = 100
