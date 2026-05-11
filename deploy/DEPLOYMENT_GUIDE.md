@@ -145,7 +145,7 @@ gcloud secrets list
 ### Option A: Manual Deployment Script
 
 ```bash
-cd /home/javort/demo-service
+cd /Users/og/Documents/Claude/Projects/Odiseo live/demo-service
 ./deploy/deploy-manual.sh
 ```
 
@@ -273,7 +273,7 @@ To test protected endpoints, you need a valid Clerk JWT token:
 
 Update the frontend `.env` to point to the cloud service:
 
-**File: `/home/javort/odiseo-web/odiseo-sales-ai/.env`**
+**File: `/Users/og/Documents/Claude/Projects/Odiseo live/odiseo-web/odiseo-sales-ai/.env`**
 
 ```env
 # For development (direct to API Gateway)

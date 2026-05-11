@@ -36,7 +36,7 @@ DB_USER="demo_user"
 DB_TIER="db-f1-micro"
 REPO_NAME="demo-repo"
 SA_NAME="demo-service-sa"
-GITHUB_REPO="javierjortiz82/demo-web-service"
+GITHUB_REPO="ceonex420/demo-web-service"
 CUSTOM_DOMAIN="api.nexusintelligent.ai"
 
 # Output file for GitHub secrets
